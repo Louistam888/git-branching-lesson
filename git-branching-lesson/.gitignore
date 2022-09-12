@@ -1,0 +1,5 @@
+**/.DS_Store
+**./vscode
+*.zip
+
+//this tells github ignore all files with these file extensions or folder names
